@@ -4,8 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hi, I'm Daniel Bolger.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I'm a software engineer who believes strongly in software craftmanship and I strive to be better at my craft every single day. I am passionate about writing maintainable code. I am deeply interested in processes, methods and tooling that enable me to be productive and deliver software efficiently.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I hold a Bachelor of Applied Science (Computer Science) from [RMIT University](http://www.rmit.edu.au). I am a continuous learner. 
+
+You can reach me at [{{site.email}}](mailto:{{site.email}}) or [@dtbolger](https://twitter.com/dtbolger)
+

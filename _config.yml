@@ -2,9 +2,10 @@
 title: Daniel Bolger
 email: daniel@bolger.com.au
 description: > # this means to ignore newlines until "baseurl:"
-  I am a software developer based in Melbourne, Australia. I am passionate
-  about writing maintainable code. I am deeply interested in processes, methods
-  and tooling that enables me to delivery software efficiently.
+  I’m a software engineer who believes strongly in software craftmanship and I 
+  strive to be better at my craft every single day. I am passionate about 
+  writing maintainable code. I am deeply interested in processes, methods and 
+  tooling that enable me to be productive and deliver software efficiently.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://daniel.bolger.id.au" # the base hostname & protocol for your site
 twitter_username: dtbolger
